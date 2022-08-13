@@ -4,7 +4,10 @@
 #### Facundo Cestari
 #### German Grinberg
 #### Alonzo David Linares Mora
-### Los dataset se encuentran en la carpeta de "resources"
-### Los codigos ya superados y/o obsoletos se encuentran en la carpeta "Superados"
+
+## Notas
+#### Los dataset se encuentran en la carpeta de "resources"
+#### Los codigos superados y/o obsoletos se encuentran en la carpeta "Superados"
+
 
 
