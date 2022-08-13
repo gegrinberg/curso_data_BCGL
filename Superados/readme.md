@@ -1,1 +1,1 @@
-# Acá se colocan los archivos superados y/o discontinuados.
+#### Aquí se colocan los archivos superados y/o discontinuados.
